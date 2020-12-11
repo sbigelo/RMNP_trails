@@ -1,3 +1,4 @@
 #!/usr/bin/env ruby
 
 
+HikingTrails::CLI.new.call
